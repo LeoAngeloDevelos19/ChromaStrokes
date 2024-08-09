@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\drawable_ic_undo.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\drawable\\ic_undo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\drawable_ic_floppy_disk.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\drawable\\ic_floppy_disk.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\drawable_ic_eraser.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\drawable\\ic_eraser.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\drawable_ic_paint_brush.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\drawable\\ic_paint_brush.xml"
+    },
+    {
+        "merged": "com.raghav.paint.app-merged_res-61:/layout_activity_splash_screen.xml.flat",
+        "source": "com.raghav.paint.app-main-63:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\drawable-v24_ic_colorpicker.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\drawable-v24\\ic_colorpicker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.raghav.paint.app-merged_res-61:/drawable_splashscreen.png.flat",
+        "source": "com.raghav.paint.app-main-63:/drawable/splashscreen.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\drawable_chromastrokes.jpg.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\drawable\\chromastrokes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\drawable_chromastrokessplashscreen.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\drawable\\chromastrokessplashscreen.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-merged_res-61:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    }
+]

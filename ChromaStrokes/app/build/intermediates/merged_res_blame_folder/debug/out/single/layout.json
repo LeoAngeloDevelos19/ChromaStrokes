@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.raghav.paint.app-mergeDebugResources-60:/layout/activity_splash_screen.xml",
+        "source": "com.raghav.paint.app-main-63:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-mergeDebugResources-60:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-mergeDebugResources-60:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.5\\com.raghav.paint.app-main-63:\\layout\\activity_splash_screen.xml"
+    }
+]
